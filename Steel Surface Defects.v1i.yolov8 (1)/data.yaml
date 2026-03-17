@@ -1,0 +1,8 @@
+path: C:\Users\HARI JHON\Downloads\Steel Surface\Steel Surface Defects.v1i.yolov8 (1)
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 6
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']
