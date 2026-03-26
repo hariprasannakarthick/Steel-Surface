@@ -42,3 +42,12 @@ The system uses a trained YOLOv8 object detection model to analyze input images 
 * Deploy on edge devices for real-time industrial use
 * Integrate IoT-based monitoring system
 * Optimize performance for faster inference
+  
+---
+
+## Author
+
+Hari Prasanna
+B.Tech Robotics Engineering
+
+---
